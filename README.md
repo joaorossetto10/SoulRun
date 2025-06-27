@@ -26,10 +26,8 @@ e reinício da fase!
 
 ## 📷 Imagens
 
-![Menu Inicial](docs/menu_soulrun.png)
-![Gameplay](docs/gameplay_soulrun.png)
-
-> (💡 Substitua os caminhos acima com prints reais, se quiser. Basta colocar os arquivos na pasta `/docs` do seu repositório.)
+![Menu Inicial](docs/MenuInicial.png)
+![Gameplay](docs/Gameplay.png)
 
 ---
 
